@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-book-table/static/css/main.85838ac8.css",
+    "main.js": "/react-book-table/static/js/main.03940a8a.js",
+    "static/js/787.adc1714b.chunk.js": "/react-book-table/static/js/787.adc1714b.chunk.js",
+    "static/media/small_logo.png": "/react-book-table/static/media/small_logo.2c859235d6c57bb54176.png",
+    "static/media/food1.avif": "/react-book-table/static/media/food1.d0c2d4f42c8986624d3e.avif",
+    "static/media/littlelemon_logo.png": "/react-book-table/static/media/littlelemon_logo.d4cae6fac8384c2dae04.png",
+    "index.html": "/react-book-table/index.html",
+    "main.85838ac8.css.map": "/react-book-table/static/css/main.85838ac8.css.map",
+    "main.03940a8a.js.map": "/react-book-table/static/js/main.03940a8a.js.map",
+    "787.adc1714b.chunk.js.map": "/react-book-table/static/js/787.adc1714b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85838ac8.css",
+    "static/js/main.03940a8a.js"
+  ]
+}
